@@ -1,0 +1,26 @@
+
+.jumbotron{
+    background: url('graffiti.jpg');
+    background-size: cover;
+    height: 30em;
+}
+
+
+
+.display-4{
+    font-weight: bold;
+}
+
+.lead{
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.col-lg-4{
+    font-size: 0.8em;
+}
+
+.btn{
+    margin-top: 10px;
+}
+
