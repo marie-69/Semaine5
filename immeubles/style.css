@@ -1,0 +1,28 @@
+
+/*correction*/
+
+.container-around{
+    margin: 10%;
+}
+
+.window{
+    height: 60px;
+    width: 60px;
+    background-color: aqua;
+}
+
+.door{
+    height: 100px;
+    width: 60px;
+    background-color: brown;
+}
+
+.building{
+    border: solid 1px black;
+    border-bottom: none;
+}
+
+.ground{
+    height: 40px;
+    background-color: blueviolet;
+}
