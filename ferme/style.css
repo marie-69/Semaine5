@@ -1,0 +1,27 @@
+
+.container-fluid{
+    background-color: rgb(218, 203, 203);
+}
+
+header{
+    background-color: white;
+    border: 1px solid black;
+}
+
+/*correction*/
+body {
+    background-color: lightgrey;
+}
+.block-article-wide {
+    background-color: white;
+    padding: 10px;
+    margin: 10px 0px;
+}
+
+.block-article {
+    background-color: white;
+    padding: 10px;
+    margin: 10px 0px;
+    min-height: 465px;
+}
+
